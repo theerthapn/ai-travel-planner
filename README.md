@@ -7,7 +7,7 @@ The application allows users to provide their destination, trip duration, number
 ## 🚀 Live Demo
 
 **Live Application:**
-https://theerthapn-ai-travel-planner.streamlit.app/
+https://ai-travel-planner-pokumzpl2ma8a8fgjmjtqk.streamlit.app/
 
 ## 📌 Project Overview
 
